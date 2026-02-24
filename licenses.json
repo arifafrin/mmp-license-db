@@ -28,5 +28,11 @@
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
+  },
+  "MMP-LIFE-1000070": {
+    "type": "LIFE",
+    "status": "ACTIVE",
+    "expiry": null,
+    "device": ""
   }
 }
