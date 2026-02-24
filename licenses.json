@@ -16,5 +16,11 @@
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
+  },
+  "MMP-LIFE-1000022": {
+    "type": "MONTH",
+    "status": "ACTIVE",
+    "expiry": "2026-03-28",
+    "device": ""
   }
 }
