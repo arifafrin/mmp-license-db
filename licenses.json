@@ -1,12 +1,14 @@
 {
-  "MMP-LIFE-TEST-9998": {
-    "type": "LIFE",
-    "status": "ACTIVE",
-    "expiry": null
-  },
   "MMP-MONTH-TEST-1235": {
     "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": "2026-03-24"
+    "expiry": "2026-03-24",
+    "device": ""
+  },
+  "MMP-LIFE-TEST-9998": {
+    "type": "LIFE",
+    "status": "ACTIVE",
+    "expiry": null,
+    "device": ""
   }
 }
