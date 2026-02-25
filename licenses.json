@@ -15,13 +15,13 @@
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   },
   "MMP-MONTH-1000022": {
     "type": "MONTH",
     "status": "ACTIVE",
     "expiry": "2026-03-28",
-    "device": ""
+    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   },
   "MMP-LIFE-1000055": {
     "type": "LIFE",
