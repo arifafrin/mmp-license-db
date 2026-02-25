@@ -7,15 +7,15 @@
   },
   "MMP-LIFE-TEST-9998": {
     "type": "LIFE",
-    "status": "ACTIVE",
+    "status": "DEACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-10000": {
     "type": "LIFE",
-    "status": "ACTIVE",
+    "status": "DEACTIVE",
     "expiry": null,
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   },
   "MMP-MONTH-1000022": {
     "type": "MONTH",
@@ -31,7 +31,7 @@
   },
   "MMP-LIFE-1000070": {
     "type": "LIFE",
-    "status": "DEACTIVE",
+    "status": "",
     "expiry": null,
     "device": ""
   }
