@@ -19,7 +19,7 @@
   },
   "MMP-MONTH-1000022": {
     "type": "MONTH",
-    "status": "ACTIVE",
+    "status": "DISSABLE",
     "expiry": "2026-03-28",
     "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   },
