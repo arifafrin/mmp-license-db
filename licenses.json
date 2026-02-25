@@ -45,7 +45,7 @@
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
-    "device": ""
+    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   },
   "MMP-MONTH-TEST-1234": {
     "type": "MONTH",
