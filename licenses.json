@@ -21,7 +21,7 @@
     "type": "MONTH",
     "status": "ACTIVE",
     "expiry": "2026-03-28",
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   },
   "MMP-LIFE-1000055": {
     "type": "LIFE",
@@ -31,8 +31,8 @@
   },
   "MMP-LIFE-1000070": {
     "type": "LIFE",
-    "status": "ACTIVE",
+    "status": "DEACTIVE",
     "expiry": null,
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   }
 }
