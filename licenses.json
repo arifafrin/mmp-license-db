@@ -49,7 +49,7 @@
   },
   "MMP-MONTH-12345": {
     "type": "MONTH",
-    "status": "ACTIVE",
+    "status": "DEACTIVE",
     "expiry": null,
     "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   }
