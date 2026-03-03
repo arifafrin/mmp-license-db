@@ -47,9 +47,9 @@
     "expiry": null,
     "device": ""
   },
-  "MMP-MONTH-12344": {
+  "MMP-MONTH-1234": {
     "type": "MONTH",
-    "status": "ACTIVE",
+    "status": "DEACTIVE",
     "expiry": null,
     "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   }
