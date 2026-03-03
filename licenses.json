@@ -47,10 +47,10 @@
     "expiry": null,
     "device": ""
   },
-  "MMP-MONTH-1234": {
+  "MMP-MONTH-12345": {
     "type": "MONTH",
     "status": "ACTIVE",
     "expiry": null,
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   }
 }
