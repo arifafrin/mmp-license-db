@@ -1,8 +1,8 @@
 {
   "MMP-LIFE-12354": {
-    "type": "LIFE",
+    "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": null,
+    "expiry": "2026-04-04",
     "device": "33a8c7d1847adc9b7b41cbb73f2581f5"
   },
   "MMP-LIFE--9998": {
@@ -12,85 +12,85 @@
     "device": "ffd56fff9fa95ddebeaadd9a2e37ac62"
   },
   "MMP-LIFE-10000": {
-    "type": "LIFE",
+    "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": null,
+    "expiry": "2026-04-04",
     "device": "12debfc05cf29dcf7d5148e0c87bca43"
   },
   "MMP-LIFE-1000022": {
-    "type": "LIFE",
+    "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": null,
+    "expiry": "2026-04-04",
     "device": "6e5e9748042b9c7bb3d64584cd78bcd7"
   },
   "MMP-LIFE-1000055": {
-    "type": "LIFE",
+    "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": null,
+    "expiry": "2026-04-04",
     "device": ""
   },
   "MMP-LIFE-1000073": {
-    "type": "LIFE",
+    "type": "MONTH",
     "status": "ACTIVE",
-    "expiry": null,
+    "expiry": "2026-04-04",
     "device": ""
   },
   "MMP-LIFE-1000074": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000347": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000348": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
   },
   "MMP-LIFE-1000349": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000350": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000351": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000352": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000353": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000354": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
   "MMP-LIFE-1000355": {
-    "type": "LIFE",
+    "type": "",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
