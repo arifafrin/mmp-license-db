@@ -21,7 +21,7 @@
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
-    "device": ""
+    "device": "6e5e9748042b9c7bb3d64584cd78bcd7"
   },
   "MMP-LIFE-1000055": {
     "type": "LIFE",
@@ -84,7 +84,13 @@
     "device": ""
   },
   "MMP-LIFE-1000354": {
-    "type": "",
+    "type": "LIFE",
+    "status": "ACTIVE",
+    "expiry": null,
+    "device": ""
+  },
+  "MMP-LIFE-1000355": {
+    "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
