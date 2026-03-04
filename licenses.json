@@ -1,367 +1,151 @@
 {
-  "MMP-CLPL-RJOF-YKYB": {
+  "MMP-LIFE-91E2-OVYY": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-QRL3-1W77-Q381": {
+  "MMP-LIFE-FIVQ-IIPJ": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-R5A3-A5A2-D1EG": {
+  "MMP-LIFE-ILSX-A33C": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-9YW9-KX93-3TTY": {
+  "MMP-LIFE-L821-8AZZ": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-097Y-ZHO6-B9RX": {
+  "MMP-LIFE-2ZAX-VKEZ": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-TT6D-F24S-6BDX": {
+  "MMP-LIFE-Y48R-MCT9": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-TMA1-9PVM-C1VH": {
+  "MMP-LIFE-RABZ-SEBN": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-KRGE-BEB7-I50X": {
+  "MMP-LIFE-XNWH-A2AY": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-XL7K-EVAG-XC53": {
+  "MMP-LIFE-5QIL-E4NN": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "MMP-C7HM-FM4T-MWNL": {
+  "MMP-LIFE-218P-61CJ": {
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
     "device": ""
   },
-  "key": {
-    "type": "STATUS",
-    "status": "TYPE",
-    "expiry": "1970-01-01",
-    "device": ""
-  },
-  "MMP-I3GS-7YVF-LAPE": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-OI9C-6NK8": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-FYLM-GK92-GX25": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-WFYF-EG52": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-NS8U-IC9R-HR2Y": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-7Z7H-LJ81": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-8PBU-UTAG-JZ8I": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-QHY4-KYBD": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-BH23-GU6O-V9QP": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-OV63-DGNE": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-XWD0-KV8K-M2BC": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-SBQG-Y1ZJ": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-X0FE-IO9O-AHA3": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-2XDW-64PE": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-VBOT-V0H0-7EEQ": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-QBG2-SZ1Q": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-JPM5-W9B6-0W41": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-J4FD-7DE8": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-4MZS-4VAT-BE07": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-HIVO-7MC7": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-SGCF-X5TC-U8US": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-KK20-IH3B": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-AB59-7LQJ-N1EV": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-ML68-P4OS": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-LD1A-11EU-8QK1": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-KTEE-GV95": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-65IK-GH6X-BN4K": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-5DMM-VAAM": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   },
-  "MMP-9FSF-1MH7-BGNR": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-RGY9-GGI8-YM3Z": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-4EUK-5UAG-VUSJ": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-IL11-5H87-N4M8": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-VDFL-286X-3B0Z": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-QMV5-TBJH-4VZU": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-FMM7-A5T1-393O": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-B948-BF77-RTBI": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-85AX-FUQG-BH5O": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-AAZU-UQI3-H1F4": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-MNPZ-JCBP-NBXO": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-DGF7-PIHX-PS5T": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-8XPD-P6CO-NM3J": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-ZCRB-UHHD-UZLM": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-FW7W-V6PE-VQLK": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-1UPF-FR8L-54CV": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-Q7DD-XZSA-LSLJ": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-1KAS-Q70B-28SL": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-WHLG-M5I8-EFVD": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-SMYV-FAFZ-9FFX": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-94K6-KJ3R-FJV9": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-PQXA-JFFZ-E7EW": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-2FKM-B7EQ-I8IL": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-XBXV-DTLO-HVFU": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-U14O-LR7O-4CK1": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-7A7I-G127-4PPE": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-AZ9S-QBNP-QDS3": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-E71M-3RBJ-5XQD": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-G790-LP4M-A275": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-95AY-QQXM-J8SD": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-MMWT-I1L6-OPU5": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-7HSP-WM67-87R6": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-C5Q6-L4RZ-F1Y2": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-3WAS-QCID-BPXC": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-56FQ-E9BW-QCQ1": {
-    "type": "ACTIVE",
-    "status": "MONTH",
-    "expiry": "2026-04-03",
-    "device": ""
-  },
-  "MMP-6F31-13DX-TLVO": {
-    "type": "ACTIVE",
-    "status": "MONTH",
+  "MMP-MONTH-9Z5N-FXZU": {
+    "type": "MONTH",
+    "status": "ACTIVE",
     "expiry": "2026-04-03",
     "device": ""
   }
