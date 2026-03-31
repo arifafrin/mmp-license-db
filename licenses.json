@@ -9,7 +9,7 @@
     "type": "LIFE",
     "status": "ACTIVE",
     "expiry": null,
-    "device": "e9b60196a5cd9963aa6e72adcb3c65d4"
+    "device": ""
   },
   "MMP-LIFE-ILSX-A33C": {
     "type": "LIFE",
@@ -111,7 +111,7 @@
     "type": "MONTH",
     "status": "ACTIVE",
     "expiry": "2026-04-03",
-    "device": ""
+    "device": "171fa1567560f129ed35f81cca990ba6"
   },
   "MMP-MONTH-HIVO-7MC7": {
     "type": "MONTH",
